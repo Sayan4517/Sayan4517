@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,java..**
 
-- 📫 How to reach me **sayan30kundu@gmail.com**
+- 📫 How to reach me **161919240+Sayan4517@users.noreply.github.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
