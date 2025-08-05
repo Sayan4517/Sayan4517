@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan4517" alt="sayan4517" /></a> </p>
 
-- 🔭 I’m currently working on **Bank Managment System using java**
+- 🔭 I’m currently working on **Voice-ai-agent**
 
 - 🌱 I’m currently learning **React js, Core java..**
 
@@ -16,6 +16,8 @@
 <p align="left">
 <a href=https://leetcode.com/u/6wI92USlur/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan kundu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sayan30f789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayan30f789" height="30" width="40" /></a>
+
+  <a href=https://www.linkedin.com/in/sayan-kundu-295271260/ target="blank"><img align="center" src="https://tse3.mm.bing.net/th/id/OIP.ozDiSGJlUqI6815cRlJiNAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="sayan kundu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
