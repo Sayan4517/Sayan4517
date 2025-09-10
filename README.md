@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Voice-ai-agent**
 
-- 🌱 I’m currently learning **React js, Core java..**
+- 🌱 I’m currently learning **Springboot,React js, Core java..**
 
-- 💬 Ask me about **react,java..**
+- 💬 Ask me about **core java,SQL..**
 
 - 📫 How to reach me **161919240+Sayan4517@users.noreply.github.com**
 
