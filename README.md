@@ -2,8 +2,6 @@
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan4517" alt="sayan4517" /></a> </p>
-
 - 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Power Bi,Python, Core java..**
